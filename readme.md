@@ -1,4 +1,5 @@
-#  *Nikolay Bolodyn*                        <img src="https://smartprogress.do/uploadImages/001539947.jpg" width="200" height="200" />
+<img src="https://smartprogress.do/uploadImages/001539947.jpg" width="200" height="200" style="text-">
+#  *Nikolay Bolodyn*                        
 
 ## ***Contacts:***
 ---
