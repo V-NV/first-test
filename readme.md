@@ -15,7 +15,7 @@ IT industry. Previously, I was involved in the repair and maintenance of compute
 ### **Skills**
 * HTML5
 * CSS3
-### **Code Example**
+## **Code Example**
 ```
 public class HelloWorld 
 
@@ -30,7 +30,7 @@ public class HelloWorld
 + [HTML Academy](https://htmlacademy.ru/)
 + [Freecodecamp](https://www.freecodecamp.org/)
 
-Work experience:
+## **Work experience:**
 + Basic HTML layout skills
 
 ## **Language:** 
